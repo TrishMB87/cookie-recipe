@@ -1,0 +1,30 @@
+body {
+    background-color:  rgb(16, 216, 206);}
+.container {
+    background-color: rgb(205, 248, 12);
+    color: rgb(60, 5, 163);
+    text-align: center;}
+h1 {
+    font-family: cursive;
+    font-size: 75px;
+    }
+p1 {
+    font-family: cursive;
+    font-size: 50px;
+}
+img { 
+    width: 300px;
+    height: 250px;
+    float: right;
+    padding: 15px;   
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding:15px;
+    color: rgb(60, 5, 163)}
+.recipe {
+    font-size:15px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px;
+    color: rgb(60, 5, 163)}
